@@ -1,4 +1,5 @@
 🎬 Movie Explorer
+🔗 Live Demo: https://movie-explorer-phi-ivory.vercel.app
 
 Movie Explorer is a frontend web application that displays movie posters along with essential information.
 This project was built as one of my early React learning projects to strengthen my understanding of component-based architecture, API integration, and UI fundamentals.
